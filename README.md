@@ -114,7 +114,7 @@ Modernized **legacy enterprise architecture** for **scalability and maintainabil
 
 ## 🤝 Connect
 
-* 💼 LinkedIn: *ADD LINK*
+* 💼 LinkedIn: linkedin.com/in/vikas-n-4a1b9016a
 * 📧 Email: vikasrao618@gmail.com
 
 ---
