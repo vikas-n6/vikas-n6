@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!-- ================= HEADER ================= -->
 
@@ -67,12 +66,12 @@ while actively **learning, implementing, and experimenting with AI-driven soluti
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas-n6&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-n6&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=vikas-n6&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -116,7 +115,7 @@ Modernized **legacy enterprise architecture** for **scalability and maintainabil
 ## 🤝 Connect
 
 * 💼 LinkedIn: *ADD LINK*
-* 📧 Email: *ADD EMAIL*
+* 📧 Email: vikasrao618@gmail.com
 
 ---
 
