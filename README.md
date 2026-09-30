@@ -27,8 +27,8 @@ Lately I'm bringing the same discipline to AI: building LLM-powered developer to
 I write about backend engineering and distributed systems on Medium.
 
 <!-- TODO: replace with your real Medium profile and 2-3 best articles -->
-- [Article title one](https://medium.com/@TODO)
-- [Article title two](https://medium.com/@TODO)
+- [Idempotency in REST API]([https://medium.com/@TODO](https://medium.com/@vikasrao618/idempotency-in-rest-apis-the-quiet-design-decision-that-saves-you-in-production-62dbc526f15f))
+
 
 ---
 
@@ -72,4 +72,4 @@ I write about backend engineering and distributed systems on Medium.
 
 ---
 
-[LinkedIn](https://linkedin.com/in/vikas-n-dev) · [Portfolio](https://vikas-n6.github.io) · [Terminal](https://vikas-n6.github.io/terminal/) · [Medium](https://medium.com/@TODO)
+[LinkedIn](https://linkedin.com/in/vikas-n-swe) · [Portfolio](https://vikas-n6.github.io) · [Terminal](https://vikas-n6.github.io/terminal/) · [Medium](https://medium.com/@vikasrao618)
