@@ -1,125 +1,75 @@
+# Vikas N
 
-<!-- ================= HEADER ================= -->
+**Senior Software Engineer | Java · Spring Boot · Microservices | FinTech & InsurTech | Scalable Backend, REST APIs & System Design**
 
-<h1 align="center">Hi, I'm Vikas 👋</h1>
-<h3 align="center">Lead-Oriented Java Backend Engineer | FinTech, System Design & AI Enthusiast</h3>
+*I build the backend systems that move money and insurance policies for millions of people across emerging markets.
+7+ years of Java, Spring Boot and microservices, most of it running in production where downtime is not an option.
+Lately I'm bringing the same discipline to AI: building LLM-powered developer tools on the JVM.*
 
-<p align="center">
-Building scalable financial platforms with <b>Spring Boot, PostgreSQL, Redis, and AI-powered tooling</b><br/>
-Focused on <b>system design, performance, production reliability, and practical AI adoption in engineering</b>
-</p>
-
----
-
-## 🚀 About Me
-
-Backend-focused Java engineer with **5+ years of experience** designing and optimizing
-**large-scale loan management and fintech backend systems**.
-
-### Core Expertise
-
-* Loan **repayment & disbursement engines** with strict financial accuracy
-* **PostgreSQL performance tuning**, indexing & reconciliation
-* **Redis atomic operations & Lua-based financial consistency**
-* **Legacy JSF → modern Spring Boot architecture migration**
-* **Root Cause Analysis, production debugging & data integrity**
-* **AI-assisted developer productivity and intelligent automation**
+**[vikas-n6.github.io →](https://vikas-n6.github.io)** · **[Try the terminal version →](https://vikas-n6.github.io/terminal/)**
 
 ---
 
-🎯 Currently preparing for **Lead Java Backend roles**,
-focusing on **scalable system design, distributed consistency, performance engineering, and applied AI in engineering workflows**,
-while actively **learning, implementing, and experimenting with AI-driven solutions** to build smarter, more efficient, and future-ready software systems.
+## Now
+
+**Senior Software Engineer @ Torry Harris Integration Solutions** (Bengaluru): building MVola LMS, a micro-lending platform serving 1M+ users at 99% uptime.
+
+**Moving toward AI engineering**: applying production backend experience (Kafka, event-driven systems, Kubernetes) to LLM-powered tools.
+
+**Certifying**: AWS Certified Solutions Architect – Associate (in progress).
+
+**Hiring for the team?** I also run Java fresher technical interviews and built a structured evaluation framework for them.
 
 ---
 
-## 🧠 Engineering Mindset
+## Writing
 
-* Correctness **before** scale
-* Optimize **queries before infrastructure**
-* Prefer **observability over assumptions**
-* Build **financial systems that never lose money**
-* Continuously **apply AI to improve engineering productivity**
+I write about backend engineering and distributed systems on Medium.
 
----
-
-## 🛠 Tech Stack
-
-### Backend
-
-`Java` • `Spring Boot` • `Spring MVC` • `Hibernate/JPA` • `REST APIs` • `Microservices`
-
-### Data & Performance
-
-`PostgreSQL` • `Query Optimization` • `Indexing` • `Stored Procedures` • `Redis` • `Lua`
-
-### AI & Developer Tooling
-
-`LLM-based Code Analysis` • `Automated Code Review` • `Prompt Engineering` • `AI-assisted Development`
-
-### Architecture & Practices
-
-`System Design` • `Distributed Consistency` • `CI/CD` • `Git` • `Production RCA`
+<!-- TODO: replace with your real Medium profile and 2-3 best articles -->
+- [Article title one](https://medium.com/@TODO)
+- [Article title two](https://medium.com/@TODO)
 
 ---
 
-## 📊 GitHub Insights
+## Open Source
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas-n6&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-n6&layout=compact&theme=tokyonight" height="170"/>
-</p>
+<!-- TODO: make these repos public and fix the links. Remove any row you don't publish. -->
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vikas-n6&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🏗 Featured Engineering Work
-
-### 🤖 AI Code Reviewer
-
-AI-powered **automated pull-request review assistant** detecting bugs, performance risks,
-and code-quality issues with **actionable suggestions for developers**.
-
-### 💰 Loan Repayment Engine
-
-Production-grade **installment, penalty, and interest computation**
-ensuring **financial correctness and reconciliation safety**.
-
-### 🚀 Loan Disbursement Validation System
-
-Robust **pre-disbursement checks, RCA fixes, and financial consistency controls**.
-
-### 🗄 PostgreSQL Financial Optimization Toolkit
-
-Advanced **indexing, tuning, and reconciliation SQL** for **high-volume financial data**.
-
-### 🔄 JSF → Spring Boot Migration
-
-Modernized **legacy enterprise architecture** for **scalability and maintainability**.
+| Project | What it does |
+| --- | --- |
+| [**ai-java-code-reviewer**](https://github.com/vikas-n6/TODO) | AI-powered code reviewer for Java. 2nd Runner-Up of 33 teams at an AI hackathon. <br> ![focus](https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=AI%20%7C%20code%20review&labelColor=14b8a6&color=111827) |
+| [**kafka-dlq-reference**](https://github.com/vikas-n6/TODO) | Spring Boot + Kafka reference for event-driven retries and dead letter queue handling, based on production patterns. <br> ![focus](https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=kafka%20%7C%20event--driven&labelColor=14b8a6&color=111827) |
+| [**terminal-portfolio**](https://github.com/vikas-n6/TODO) | Interactive "career server SSH session" portfolio with clickable commands for recruiters. <br> ![focus](https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=frontend%20%7C%20portfolio&labelColor=14b8a6&color=111827) |
 
 ---
 
-## 📚 Currently Exploring
+## Highlights
 
-* Advanced **System Design for FinTech**
-* **Distributed & event-driven microservices**
-* **High-performance data processing**
-* **Applied AI in software engineering**
-* **Lead-level backend architecture patterns**
-
----
-
-## 🤝 Connect
-
-* 💼 LinkedIn: linkedin.com/in/vikas-n-4a1b9016a
-* 📧 Email: vikasrao618@gmail.com
+| Highlight | Detail |
+| --- | --- |
+| **Micro-lending at scale** | MVola LMS: 1M+ users, 99% uptime |
+| **Insurance platforms** | MIP Policy Insurance Application: ~10,000 policies per month |
+| **Emerging-market reach** | TIGO Scoring Platform, BIMA Connect and PICs WhatsApp integration: 1M+ users across African markets |
+| **AI Hackathon** | 2nd Runner-Up out of 33 teams with an AI-powered Java code reviewer |
+| **Career growth** | Trainee (Jul 2019) to Senior Software Engineer (Apr 2023) at Torry Harris |
+| **Production depth** | Apache Kafka, event-driven architecture, DLQ handling, Kubernetes |
 
 ---
 
-<p align="center">
-  ⭐ <i>Designing reliable financial systems that scale with trust — powered by strong engineering and practical AI.</i>
-</p>
+## Tech
 
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-111827?style=flat-square&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logo=postman&logoColor=FF6C37)
+
+---
+
+![GitHub streak stats](https://streak-stats.demolab.com?user=vikas-n6&theme=transparent&hide_border=true&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6)
+
+---
+
+[LinkedIn](https://linkedin.com/in/vikas-n-dev) · [Portfolio](https://vikas-n6.github.io) · [Terminal](https://vikas-n6.github.io/terminal/) · [Medium](https://medium.com/@TODO)
